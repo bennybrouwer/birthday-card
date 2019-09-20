@@ -1,0 +1,17 @@
+body {
+  font-size: 48px;
+  background-color: lightgreen;
+  color: darkorchid;
+  text-shadow: 4px 4px 4px #aaa;
+}
+h1 {
+  font-family: 'Great Vibes', cursive;
+}
+.my_class {
+  font-size: 8px;
+  color:darkcyan;
+}
+#my_id {
+  font-size: 12px;
+  color: darkred;
+}
